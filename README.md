@@ -32,3 +32,9 @@ This is a quiz website designed using Django, HTML, CSS and postgresql as the da
 Everytime random 10 questions are fetched from the database.
 
 ![image](https://user-images.githubusercontent.com/114876647/219608060-80473066-4714-4ca9-8dd2-7b7437ad1b3c.png)
+
+# Results Page
+![image](https://user-images.githubusercontent.com/114876647/219608703-31dfc0b6-24c1-4650-8138-11d279fa37b0.png)
+
+# Updated Dashboard
+![image](https://user-images.githubusercontent.com/114876647/219608830-59533f9d-0376-4a47-b1db-c3c5f00fbeb1.png)
