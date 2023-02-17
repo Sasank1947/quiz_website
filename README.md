@@ -19,3 +19,15 @@ This is a quiz website designed using Django, HTML, CSS and postgresql as the da
 # Quiz Results Data
 ![image](https://user-images.githubusercontent.com/114876647/219606310-8014a805-84ed-40de-8a2c-c52713664c7b.png)
 
+# Register Page
+![image](https://user-images.githubusercontent.com/114876647/219607720-1f783309-4b67-46c5-8e87-7fd8bcf5954e.png)
+
+# Login Page
+![image](https://user-images.githubusercontent.com/114876647/219607781-bc43272b-b247-483c-981b-c3928a91e6e9.png)
+
+# Student Dashboard
+![image](https://user-images.githubusercontent.com/114876647/219607943-de791813-7d47-45b7-97a1-660438ecae9b.png)
+
+# Quiz Page
+Everytime random 10 questions are generated
+![image](https://user-images.githubusercontent.com/114876647/219608060-80473066-4714-4ca9-8dd2-7b7437ad1b3c.png)
