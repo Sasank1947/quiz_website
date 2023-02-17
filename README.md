@@ -29,5 +29,6 @@ This is a quiz website designed using Django, HTML, CSS and postgresql as the da
 ![image](https://user-images.githubusercontent.com/114876647/219607943-de791813-7d47-45b7-97a1-660438ecae9b.png)
 
 # Quiz Page
-Everytime random 10 questions are generated
+Everytime random 10 questions are fetched from the database.
+
 ![image](https://user-images.githubusercontent.com/114876647/219608060-80473066-4714-4ca9-8dd2-7b7437ad1b3c.png)
